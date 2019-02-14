@@ -6,7 +6,7 @@ function main() {
     console.log("clickk")
 
     display = document.getElementById('display')
-    display.innerHTML = "LOS ZUMITOS"
+    display.innerHTML = "Texto Nuevo"
   }
 
 }
