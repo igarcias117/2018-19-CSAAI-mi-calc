@@ -3,5 +3,20 @@ body{
 }
 
 #display{
-  background-color: orange;
+  background-color: green;
+}
+
+.botones{
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 25px;
+  font-style: italic;
+  color: turquoise;
+  background-color: gray;
+  border-radius: 15px;
+  border: 3px double orange;
 }
